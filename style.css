@@ -99,3 +99,14 @@ color: #ff7700;
 {
     text-align: center
 }
+
+
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
